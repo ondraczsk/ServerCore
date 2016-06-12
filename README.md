@@ -2,12 +2,12 @@
 
 __ToDo:__
 
-_messages_      [ ]
+_messages_        [ ]
 
-_PvP zones_     [ ]
+_PvP zones_       [ ]
 
-_Ranks_         [ ]
+_Ranks_           [ ]
 
-_Languages_     [ ]
+_Languages_       [ ]
 
-_Commands_      [ ]
+_Commands_        [ ]
