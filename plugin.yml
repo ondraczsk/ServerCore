@@ -1,0 +1,13 @@
+name: ServerCore
+main: GamakCZ\Core
+version: InDev
+api:
+  - 1.13.1
+  - 1.8.0
+  - 2.0.0
+author: GamakCZ
+description: Core for php5 and php7 servers.
+
+commands: []
+
+permissions: []
