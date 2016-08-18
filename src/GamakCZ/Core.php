@@ -15,6 +15,7 @@ use pocketmine\utils\TextFormat as C;
 use pocketmine\utils\Config
 
 use pocketmine\event\player\PlayerChatEvent;
+use pocketmine\event\player\PlayerKickEvent;
 
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
