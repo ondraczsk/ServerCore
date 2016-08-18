@@ -43,7 +43,8 @@ class Core extends P implements L {
       return true;
     }
     switch (strtolower($cmd->getName())) {
-      case "":
+      case "sc":
+      $sender->sendMessage(this->$prefix. ("test");
     }
   }
 }
